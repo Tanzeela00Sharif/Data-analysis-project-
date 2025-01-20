@@ -17,7 +17,7 @@ The project explores the following key aspects:
 4. **Instructor and Specialization Count:**  
    Count the number of instructors contributing to the platform and analyze their areas of specialization.
 
-dashboard ![image](https://github.com/user-attachments/assets/677d0aef-58ac-47db-8251-e457663d4b9a)
+![image](https://github.com/user-attachments/assets/677d0aef-58ac-47db-8251-e457663d4b9a)
 
 
 **Key Questions Answered in the Project:**  
